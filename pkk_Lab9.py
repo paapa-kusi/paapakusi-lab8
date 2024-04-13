@@ -7,3 +7,4 @@ def encode(password):
         encoded_password += i
     return encoded_password
 
+print("Hello")
