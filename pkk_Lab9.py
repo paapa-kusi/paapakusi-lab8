@@ -16,7 +16,6 @@ def decode(encoded_password):
 
 if __name__ == '__main__':
     while True:
-        print()
         print('Menu')
         print('-------------')
         print('1. Encode')
